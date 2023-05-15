@@ -15,8 +15,8 @@ This code was developed in Visual Studio Pro 2022, and provides the following fu
 By selecting Open in the Menu bar, an openFile Dialog pops up tha prompt to provide an input file:
 The user can selecte a file from the /testData folder, and the file content populates a grid control on the left of the screen.
 There are tw types of files: 
-a) A file with  a dataset from a single curve
-b) Files containining datasets with multiple curves
+* A file with  a dataset from a single curve
+* Files containining datasets with multiple curves
 The available curves are populated in a comboBox contol, showing on the bottom left side of the screen
 The selected curve from the VCombobox is plotted on the plotWindow on the right hand side of the screen
 
